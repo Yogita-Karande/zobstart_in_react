@@ -1,0 +1,16 @@
+.card-area {
+  text-align: end;
+  justify-content: end;
+  margin-right: 30px;
+}
+
+.list-style {
+  list-style: none;
+  
+
+}
+
+ul li a {
+  text-decoration: none;
+  color: gray;
+}

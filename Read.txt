@@ -1,0 +1,47 @@
+create pages 
+Munubar 
+-> Job (Home)
+-> Company Registration (link on home/job page)
+-> Candidate Registration (link on home/job page)
+-> Login
+-> Registration
+-> Post a Job
+
+After Login 
+-> My profile 
+-> Applied jobs
+
+Common pages
+
+-> Contact 
+-> Privacy Policy
+-> Terms and Conditions
+-> Login 
+-> Registration
+-> header
+-> footer
+-> Job (Home)
+-> Company Registration (link on home/job page)
+-> Candidate Registration (link on home/job page)
+
+Candidate pages
+
+-> Applied jobs
+-> Job Details
+-> Candidate profile
+-> Change Password
+-> Dashboard
+-> Add Resume
+-> edit profile
+-> 
+
+Employee pages
+
+-> Employee Details 
+-> sidebar
+-> change Password
+-> dashboard 
+-> Edit profile
+-> add job
+-> edit job
+-> Posted Jobs
